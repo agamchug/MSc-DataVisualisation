@@ -8,4 +8,4 @@ iii. trending_description summarises the analysis, and statistical and design ch
 
 iv. tiktok.py is the python code.
 
-<img src="tiktok.png" width="900" height="500">
+<img src="tiktok.png">
